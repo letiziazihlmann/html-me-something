@@ -2,10 +2,43 @@
     background-color: #DAE1DB;
 }
 #title {
-    color: #66C674 ;
+    color: #5D5E5D ;
     font-style: italic;
     text-align: center;
+    font-size: 100px;
+    background-color: #EDF6EF;
 }
-h3 {
-    text-color: blue;
+h3{
+    color: #5D5E5D;
+    text-align: center;
+}
+img {
+    height: 400px;
+    width: 600px;
+    margin-left: 323px;
+}
+a {
+    text-decoration: none;
+    color: #5d5e5d;
+    margin: 20px;
+}
+h2 {
+    text-align: center;
+    color: #5d5e5d;
+}
+.instructions{
+    color: #5d5e5d;
+    padding: 5px;
+    text-align: center;
+}
+p {
+    color: #9AA19B;
+    text-align: center;
+}
+h5 {
+    color:#5D5E5D;
+    text-align: center;
+}
+footer {
+    color: #9AA19B;
 }
